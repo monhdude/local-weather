@@ -1,0 +1,49 @@
+body{
+  padding:10% 25% 0 25%;
+  display:none;
+  color:white;
+  text-shadow: 1px 1px 5px black;
+  font-family: 'Pontano Sans', sans-serif;
+  background-size: cover;
+  
+}
+
+#title{
+  padding:0
+}
+
+#city{
+  padding-bottom:20px;
+}
+
+#temp-icon{
+  padding-bottom:5px;
+}
+
+#degrees{
+  font-size:40px;
+}
+
+#icon{
+  padding-bottom:20px;
+}
+
+.box-wrapper{
+  background-color: rgba(220,255,220,0.75);
+  border-radius: 25px;
+  box-shadow: 4px 4px 8px black;
+  min-width:30%;
+  padding: 20px 0 20px 0;
+  
+}
+
+h1{
+  font-size:3.8vw;
+}
+h5{
+  font-size:2.5vw;
+}
+h6{
+  font-size:2.2vw;
+}
+
