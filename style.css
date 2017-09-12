@@ -1,7 +1,7 @@
 body{
   padding:10% 25% 0 25%;
   display:none;
-  color:white;
+  color:white !important;
   text-shadow: 1px 1px 5px black;
   font-family: 'Pontano Sans', sans-serif;
   background-size: cover;
